@@ -6,7 +6,7 @@ To decrpyt bytes with a key using subroutines.
 
 #Flow Chart
 
-![Alt Text](https://github.com/RyanRedhead/Lab-1---Calculator/blob/master/Lab%201/photo.JPG?raw=true)
+![Alt Text](https://github.com/RyanRedhead/Lab-2/blob/master/Lab%201/photo.JPG?raw=true)
 
 #Hardware Schematic
 
